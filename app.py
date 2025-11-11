@@ -12,7 +12,7 @@ import matplotlib.colors as mcolors
 import re
 #import contextily as cx
 
-ui.page_opts(title="Bezirke Dashboard", fillable=True)
+ui.page_opts(title="Bezirke Dashboard © BO13", fillable=True)
 
 
 with ui.sidebar(title="Einstellungen"):
