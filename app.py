@@ -12,7 +12,7 @@ import matplotlib.colors as mcolors
 import re
 #import contextily as cx
 
-ui.page_opts(title="Bezirke Dashboard © BO13", fillable=True)
+ui.page_opts(title="Bezirke Dashboard 🄯 BO13 - Bezirksvoranschlag 2026, Datenstand Oktober 2025", fillable=True)
 
 
 with ui.sidebar(title="Einstellungen"):
